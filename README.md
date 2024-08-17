@@ -1,3 +1,4 @@
+![Blue Gradient Header Banner](https://github.com/user-attachments/assets/6715c26e-8458-456f-94b0-4571f9db3003)
 <h1 align="center">Hi 👋, I'm Dafa Aulia</h1>
 <h3 align="center">I'm a passionate Information Systems student with a deep interest in Data Analysis and Machine Learning. I enjoy diving into datasets, uncovering insights, and building predictive models that can solve real-world problems. My journey in tech revolves around continuous learning, and I'm always excited to explore new tools and technologies that can help me grow. I'm always open to new opportunities and collaborations, especially in projects related to data science and machine learning. Let's connect and create something impactful together!</h3>
 
@@ -5,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dafa aulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dafa aulia" height="30" width="40" /></a>
-<a href="https://instagram.com/@auliadafa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@auliadafa_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dafa-aulia-4ab9a221a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dafa aulia" height="30" width="40" /></a>
+<a href="https://www.instagram.com/auliadafa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@auliadafa_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
